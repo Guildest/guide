@@ -1,2 +1,2 @@
 # Guide
-A guide for creating a Guilded bot with out Guildest Library
+A guide for creating a Guilded bot with our Guildest Library
